@@ -1,0 +1,16 @@
+img {
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+}
+li {
+  margin: 10px;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+}
+p {
+  text-align: center;
+  font-size: 12px;
+}
